@@ -2,6 +2,7 @@
 Link to the dataset: https://www.kaggle.com/ashishgup/netflix-rotten-tomatoes-metacritic-imdb
 
 Tools used: Microsoft Excel, Microsoft SQL studio, Tableau
+DASHBOARD LINK: https://public.tableau.com/views/Netflix_16572807430040/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Questions Answered: 
 
