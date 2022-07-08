@@ -18,8 +18,10 @@ Questions Answered:
 INSIGHTS: 
 
 1. "TITANIC" is the highest-grossing film on Netflix, earning around $659,363,944 with 1048704 IMDB votes and 123 awards overall.
+
 (Unfortunately, Netflix in the US does not offer Titanic for streaming.
 However, Titanic is available on Netflix in a number of additional locales and nations, including Switzerland, Canada, Germany, South Korea, and Canada.)
+
 2.Comedy is the genre with the highest count, followed by drama, action, and animation.
 3. The number of comedies is high, although the number of animated television series is large.
 4. English is the language with the most films and television shows, followed by Japanese, Korean, and Spanish.
